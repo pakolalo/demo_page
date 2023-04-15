@@ -7,8 +7,8 @@ A website page using HTML, CSS & JavaScript
 * [LinkedIn](https://www.linkedin.com/in/franciscodelcollados/)
 * [Portfolio](https://iscodelcollado.com)
 
-## See live example
-- [link]
+## Watch the live example
+- [link](https://pakolalo.github.io/demo_page/)
 
 ## Installation
 
